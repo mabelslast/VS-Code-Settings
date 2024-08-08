@@ -1,0 +1,68 @@
+{
+    "workbench.colorTheme": "React Theme",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.sideBar.location":"right",
+    "workbench.editor.showTabs": "none",
+    "workbench.layoutControl.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderLineHighlight": "none",
+    "editor.matchBrackets": "never",
+    "editor.lightbulb.enabled": "off",
+    "editor.stickyScroll.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 5,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "line",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 2,
+    "editor.guides.indentation": false,
+    "breadcrumbs.enabled": false,
+    "git.decorations.enabled": false,
+    "scm.diffDecorations": "none",
+    "scm.diffDecorationsGutterVisibility": "hover",
+    "scm.alwaysShowActions": false,
+    "editor.fontLigatures": true,
+    "explorer.compactFolders": false,
+    "files.autoSave": "afterDelay",
+    "apc.font.family": "Geist Mono, JetBrains Mono, Fira Code",
+    "apc.activityBar": {
+        "position": "bottom",
+        "size": 35,
+        "itemSize": 30
+    },
+    "apc.sidebar.titlebar": {
+        "height": 35,
+        "fontSize": 10
+    },
+    "apc.statusBar": {
+        "position":"editor-bottom",
+        "height": 20,
+    },
+    "apc.listRow": {
+        "lists": [
+            "explorer-folders-view",
+        ],
+        "height": 30,
+        "fontSize": 15
+    },
+    // Everything is good
+    "apc.stylesheet": {
+        ".sideBar": "border: none !important",
+        ".monaco-workbench": {
+            "--vscode-scrollbarSlider-background": "#424441"
+        }
+    },
+    "animations.Install-Method": "Apc Customize UI++",
+    "apc.imports": [
+        "file:///c:/Users/t.msefula/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    ],
+// Install the extensions:
+// -> APC Customize UI++
+// -> VS Code Animations
+}
